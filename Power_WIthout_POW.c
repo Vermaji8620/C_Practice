@@ -6,12 +6,12 @@
 
 int powing(int numm, int poww)
 {
-    int n = numm;
+    long long int n = numm;
     for (int i = 1; i < poww; i++)
     {
         n = n * numm;
     }
-    printf("the value is %d", n);
+    printf("the value is %lld", n);
 }
 int main()
 {
