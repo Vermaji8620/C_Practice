@@ -30,22 +30,3 @@ int main()
 
     return 0;
 }
-
-// #include <stdio.h>
-// #include <string.h>
-// #include <stdlib.h>
-// #include <math.h>
-// #include <time.h>
-// int main()
-// {
-//     int a = 45;
-//     while (a != 55)
-//     {
-//         int print = ("%d ", a);
-//         a++;
-//         printf("%d ", print);
-//         /* code */
-//     }
-
-//     return 0;
-// }
